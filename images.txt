@@ -7,5 +7,5 @@ xhofe/alist:latest
 boredazfcuk/icloudpd
 jeessy/ddns-go
 jellyfin/jellyfin
-neosmemo/memos
+neosmemo/memos:0.22.2
 xiaoyaliu/alist
