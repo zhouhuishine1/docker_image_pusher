@@ -4,6 +4,9 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:0.22.2
+ghcr.io/monlor/xiaoya-alist
+ghcr.io/monlor/xiaoya-metadata
+ghcr.io/monlor/xiaoya-embyserver
 #xhofe/alist:latest
 #boredazfcuk/icloudpd
 #jeessy/ddns-go
