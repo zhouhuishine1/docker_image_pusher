@@ -5,6 +5,7 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:0.22.2
 moelin/1panel:latest
+onlyoffice/documentserver
 #ghcr.io/monlor/xiaoya-alist
 #ghcr.io/monlor/xiaoya-metadata
 #ghcr.io/monlor/xiaoya-embyserver
